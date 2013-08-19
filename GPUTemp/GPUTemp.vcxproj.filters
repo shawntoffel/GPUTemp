@@ -18,9 +18,6 @@
     <ClCompile Include="NvidiaGPU.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GPUInfo.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="GPUTemp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

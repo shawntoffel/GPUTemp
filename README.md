@@ -1,4 +1,4 @@
 GPUTemp
 =======
 
-Demonstrates how to get a GPU name and current temperature via NVIDIA's NVAPI
+Demonstrates how to get a GPU's name and current temperature via NVIDIA's NVAPI
